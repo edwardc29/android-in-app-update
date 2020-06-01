@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-in-app-update</string>
+    <string name="restart">Restart</string>
 </resources>
